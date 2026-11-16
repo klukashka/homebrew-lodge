@@ -3,8 +3,8 @@ class Lodge < Formula
   homepage "https://github.com/klukashka/Lodge"
   # The release workflow copies this file into the tap (klukashka/homebrew-lodge) and rewrites `url` and `sha256`
   # for the tagged source tarball, so these two lines change on every release.
-  url "https://github.com/klukashka/Lodge/archive/refs/tags/v0.2.1.tar.gz"
-  sha256 "82a84d83fd234d3c5e1826b333cee965a79fd0889fa84d039fe4ca9d738b3de0"
+  url "https://github.com/klukashka/Lodge/archive/refs/tags/v0.2.2.tar.gz"
+  sha256 "5d27d195b845c8b2d1e52ac04c8fcdc2de1df001684f76c236c5f75f7460002c"
   license "MIT"
   head "https://github.com/klukashka/Lodge.git", branch: "main"
 
